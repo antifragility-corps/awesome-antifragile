@@ -1,4 +1,4 @@
-# Awesome Antifragile [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Antifragile [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Gitter](https://badges.gitter.im/antifragility-corps/general.svg)](https://gitter.im/antifragility-corps/general)
 
 > A curated list of insightful resources on antifragility
 
@@ -7,7 +7,7 @@
   - [The Collapse of Complex Societies](https://books.google.at/books?id=M4H-02d9oE0C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) by [Joseph Tainter](https://en.wikipedia.org/wiki/Joseph_Tainter)
 
 ## Blog Articles
-  - [How to Avoid Societal Collapse](https://medium.com/@kenbaumann/how-to-avoid-societal-collapse-f796db4b17f) - Short overview on antifragility in general and specific actions we can embrace to become antifragile
+  - [How to Avoid Societal Collapse](https://medium.com/@kenbaumann/how-to-avoid-societal-collapse-f796db4b17f) - Good general overview and specific examples for antifragile actions
 
 ## Podcasts
   - [Societal Complexity and Collapse](http://omegataupodcast.net/2015/10/184-societal-complexity-and-collapse/) - Interview with [Joseph Tainter](https://en.wikipedia.org/wiki/Joseph_Tainter) by [omega tau](http://omegataupodcast.net/) 
